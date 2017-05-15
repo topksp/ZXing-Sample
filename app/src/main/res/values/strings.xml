@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QRCode Sample</string>
+    <string name="btn_scan">Scan</string>
+    <string name="btn_generate">Generate</string>
+    <string name="tv_scan_format">QRCode Format</string>
+    <string name="tv_scan_content">QRCode Content</string>
+    <string name="et_qrcode_content">http://www.yahoo.com</string>
+
+</resources>
